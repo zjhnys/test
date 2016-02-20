@@ -2,11 +2,11 @@ h1{
 	color: blue;
 }
 h2{
-	font-size: 14px;
+	font-size: 16px;
 }
 p{
-	font-size: 12px;
-	color: yellow;
+	font-size: 14px;
+	color: white;
 	background-color: black;
 }
 img{
@@ -14,4 +14,5 @@ img{
 }
 li{
 	margin: 0 auto;
+	width: 800px;
 }
