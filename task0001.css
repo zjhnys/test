@@ -1,15 +1,14 @@
 
+	background: #ccc;
 h2{
 	font-size: 16px;
 }
 p{
 	font-size: 14px;
-	color: white;
 	width: 800px;
-	background-color: black;
 }
 img{
-	 border: 5px solid yellow;
+	 border: 2px solid yellow;
 }
 li{
 	width: 800px;
