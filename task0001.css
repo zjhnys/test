@@ -12,3 +12,6 @@ p{
 img{
 	 border: 2px solid red;
 }
+li{
+	margin: 0 auto;
+}
