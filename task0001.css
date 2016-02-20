@@ -1,5 +1,11 @@
-
+<<<<<<< HEAD
+body{
 	background: #ccc;
+=======
+h1{
+	color: blue;
+>>>>>>> parent of 30ec88b... cc
+}
 h2{
 	font-size: 16px;
 }
@@ -8,8 +14,13 @@ p{
 	width: 800px;
 }
 img{
+<<<<<<< HEAD
 	 border: 2px solid yellow;
+=======
+	 border: 2px solid red;
+>>>>>>> parent of 30ec88b... cc
 }
 li{
+	margin: 0 auto;
 	width: 800px;
 }
