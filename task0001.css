@@ -1,26 +1,14 @@
-<<<<<<< HEAD
-body{
-	background: #ccc;
-=======
 h1{
 	color: blue;
->>>>>>> parent of 30ec88b... cc
 }
 h2{
-	font-size: 16px;
+	font-size: 14px;
 }
 p{
-	font-size: 14px;
-	width: 800px;
+	font-size: 12px;
+	color:yellow;
+	background-color:black; 
 }
 img{
-<<<<<<< HEAD
-	 border: 2px solid yellow;
-=======
-	 border: 2px solid red;
->>>>>>> parent of 30ec88b... cc
-}
-li{
-	margin: 0 auto;
-	width: 800px;
+	 border: 2px solid;
 }
