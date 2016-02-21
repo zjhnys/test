@@ -12,3 +12,8 @@ p{
 img{
 	 border: 2px solid;
 }
+#diva{
+	margin: 0 auto;
+	width: 960px;
+	background-color: red;
+}
